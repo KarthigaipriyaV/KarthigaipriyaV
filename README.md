@@ -1,11 +1,11 @@
 h1 align="center">Hi 👋, I'm Karthigaipriya</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthigaipriyav&label=Profile%20views&color=0e75b6&style=flat" alt="karthigaipriyav" /> </p>
 
 - 🔭 I’m currently working on **Access Healthcare**
 
-- 👯 I’m looking to collaborate on **Software developing projects**
+- 👯 I’m looking to collaborate on **Data Analyst projects**
 
 - 📫 How to reach me **priyaselvi788@gmail.com**
 
