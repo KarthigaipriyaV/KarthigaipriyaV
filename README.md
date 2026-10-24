@@ -5,8 +5,6 @@ h1 align="center">Hi 👋, I'm Karthigaipriya</h1>
 
 - 🔭 I’m currently working on **Ventra Health**
 
-- 👯 I’m looking to collaborate on **Data Analyst projects**
-
 - 📫 How to reach me **priyaselvi788@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
